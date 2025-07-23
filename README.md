@@ -1,6 +1,5 @@
 # 📱 Guide Complet Android : Sécurité, Root et Outils Avancés
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://android.com)
 [![Français](https://img.shields.io/badge/Langue-Français-blue.svg)](README.md)
 
@@ -154,4 +153,4 @@ L'auteur de ce guide décline toute responsabilité concernant :
 
 **Utilisez ces outils à vos propres risques et en respectant la législation en vigueur.**
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFxejI5MDRxZWp5ZWM5YmZsOHh2cHl1MGJiczc5aGU1eTM3YjcyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dl8b48ULQRjBkRcmZZ/giphy.gif
+![giphy](https://github.com/user-attachments/assets/d464f5bc-173b-49bc-bd3a-52ebfe53b023)
