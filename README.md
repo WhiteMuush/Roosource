@@ -43,8 +43,7 @@ Ce guide vous accompagne dans la personnalisation avancée de votre appareil And
 | [**LineageOS**](https://lineageos.org/) | ROM Android open-source sans services Google | Avancé |
 
 ### Guide Francophone
-- [**Guide Root Android Complet**](https://www.frandroid.com/comment-faire/tutoriaux/121317_rooter-son-telephone-android) - Tutoriel détaillé en français
-
+- [https://www.coolmuster.com/fr/android-root/root-android-without-pc.html](https://droidsoft.fr/2024/08/20/tuto-comment-rooter-son-android/) - Tutoriel détaillé en français
 ---
 
 ## 🐧 2. Terminal Linux
